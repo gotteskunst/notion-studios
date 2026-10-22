@@ -2,6 +2,8 @@
 
 Landing page and Discord bot API for Notion Studios.
 
+![preview](https://i.ibb.co/rRBp7vX7/grafik.png)
+
 ## Structure
 
 ```
@@ -65,7 +67,3 @@ The bot needs the **Server Members** and **Presence** privileged intents enabled
 
 - `GET /team` returns the cached team members with avatar, banner, role and presence status
 - `GET /health` returns the cache size and its age
-
-## License
-
-MIT
